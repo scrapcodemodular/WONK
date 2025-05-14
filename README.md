@@ -9,7 +9,7 @@ This code is designed to be uploaded to an ATMEGA328PU microcontroller using the
 
 A WONK module can be created by installing this into a circuit built using the included schematics.
 
-Both boards must be built and connected via the headers, or alternatively a single board with all compnonents could be created.
+Both boards must be built and connected via the headers, or alternatively a single board with all components could be created.
 
 
 
